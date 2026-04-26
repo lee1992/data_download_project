@@ -1,0 +1,1463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f4645f81-ebbb-453d-9101-6fc6db1d86b0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/data_download_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI chat in Sider.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/CBOT_MINI_YM1_main/CBOT_MINI_YM1_main_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/CBOT_MINI_YM1_main/CBOT_MINI_YM1_main_1D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/CBOT_MINI_YM1_main/CBOT_MINI_YM1_main_1H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/CBOT_MINI_YM1_main/CBOT_MINI_YM1_main_1M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/CBOT_MINI_YM1_main/CBOT_MINI_YM1_main_1W.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/CBOT_MINI_YM1_main/CBOT_MINI_YM1_main_1Y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/CBOT_MINI_YM1_main/CBOT_MINI_YM1_main_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/CBOT_MINI_YM1_main/CBOT_MINI_YM1_main_3M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/CBOT_MINI_YM1_main/CBOT_MINI_YM1_main_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/CBOT_MINI_YM1_main/CBOT_MINI_YM1_main_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/CME_MINI_ES1_main/CME_MINI_ES1_main_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/CME_MINI_ES1_main/CME_MINI_ES1_main_1D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/CME_MINI_ES1_main/CME_MINI_ES1_main_1H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/CME_MINI_ES1_main/CME_MINI_ES1_main_1M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/CME_MINI_ES1_main/CME_MINI_ES1_main_1W.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/CME_MINI_ES1_main/CME_MINI_ES1_main_1Y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/CME_MINI_ES1_main/CME_MINI_ES1_main_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/CME_MINI_ES1_main/CME_MINI_ES1_main_3M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/CME_MINI_ES1_main/CME_MINI_ES1_main_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/CME_MINI_ES1_main/CME_MINI_ES1_main_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/CME_MINI_NQ1_main/CME_MINI_NQ1_main_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/CME_MINI_NQ1_main/CME_MINI_NQ1_main_1D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/CME_MINI_NQ1_main/CME_MINI_NQ1_main_1H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/CME_MINI_NQ1_main/CME_MINI_NQ1_main_1M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/CME_MINI_NQ1_main/CME_MINI_NQ1_main_1W.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/CME_MINI_NQ1_main/CME_MINI_NQ1_main_1Y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/CME_MINI_NQ1_main/CME_MINI_NQ1_main_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/CME_MINI_NQ1_main/CME_MINI_NQ1_main_3M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/CME_MINI_NQ1_main/CME_MINI_NQ1_main_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/CME_MINI_NQ1_main/CME_MINI_NQ1_main_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/COMEX_HG1_main/COMEX_HG1_main_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/COMEX_HG1_main/COMEX_HG1_main_1D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/COMEX_HG1_main/COMEX_HG1_main_1H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/COMEX_HG1_main/COMEX_HG1_main_1M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/COMEX_HG1_main/COMEX_HG1_main_1W.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/COMEX_HG1_main/COMEX_HG1_main_1Y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/COMEX_HG1_main/COMEX_HG1_main_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/COMEX_HG1_main/COMEX_HG1_main_3M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/COMEX_HG1_main/COMEX_HG1_main_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/COMEX_HG1_main/COMEX_HG1_main_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/GOOG/GOOG_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/GOOG/GOOG_1D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/GOOG/GOOG_1H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/GOOG/GOOG_1M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/GOOG/GOOG_1W.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/GOOG/GOOG_1Y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/GOOG/GOOG_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/GOOG/GOOG_3M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/GOOG/GOOG_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/GOOG/GOOG_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_AAPL/NASDAQ_AAPL_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_AAPL/NASDAQ_AAPL_1D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_AAPL/NASDAQ_AAPL_1H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_AAPL/NASDAQ_AAPL_1M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_AAPL/NASDAQ_AAPL_1W.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_AAPL/NASDAQ_AAPL_1Y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_AAPL/NASDAQ_AAPL_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_AAPL/NASDAQ_AAPL_3M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_AAPL/NASDAQ_AAPL_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_AAPL/NASDAQ_AAPL_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_AMD/NASDAQ_AMD_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_AMD/NASDAQ_AMD_1D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_AMD/NASDAQ_AMD_1H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_AMD/NASDAQ_AMD_1M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_AMD/NASDAQ_AMD_1W.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_AMD/NASDAQ_AMD_1Y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_AMD/NASDAQ_AMD_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_AMD/NASDAQ_AMD_3M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_AMD/NASDAQ_AMD_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_AMD/NASDAQ_AMD_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_AMZN/NASDAQ_AMZN_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_AMZN/NASDAQ_AMZN_1D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_AMZN/NASDAQ_AMZN_1H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_AMZN/NASDAQ_AMZN_1M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_AMZN/NASDAQ_AMZN_1W.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_AMZN/NASDAQ_AMZN_1Y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_AMZN/NASDAQ_AMZN_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_AMZN/NASDAQ_AMZN_3M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_AMZN/NASDAQ_AMZN_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_AMZN/NASDAQ_AMZN_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_META/NASDAQ_META_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_META/NASDAQ_META_1D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_META/NASDAQ_META_1H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_META/NASDAQ_META_1M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_META/NASDAQ_META_1W.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_META/NASDAQ_META_1Y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_META/NASDAQ_META_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_META/NASDAQ_META_3M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_META/NASDAQ_META_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_META/NASDAQ_META_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_MRVL/NASDAQ_MRVL_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_MRVL/NASDAQ_MRVL_1D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_MRVL/NASDAQ_MRVL_1H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_MRVL/NASDAQ_MRVL_1M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_MRVL/NASDAQ_MRVL_1W.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_MRVL/NASDAQ_MRVL_1Y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_MRVL/NASDAQ_MRVL_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_MRVL/NASDAQ_MRVL_3M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_MRVL/NASDAQ_MRVL_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_MRVL/NASDAQ_MRVL_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_MSFT/NASDAQ_MSFT_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_MSFT/NASDAQ_MSFT_1D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_MSFT/NASDAQ_MSFT_1H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_MSFT/NASDAQ_MSFT_1M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_MSFT/NASDAQ_MSFT_1W.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_MSFT/NASDAQ_MSFT_1Y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_MSFT/NASDAQ_MSFT_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_MSFT/NASDAQ_MSFT_3M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_MSFT/NASDAQ_MSFT_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_MSFT/NASDAQ_MSFT_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_MU/NASDAQ_MU_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_MU/NASDAQ_MU_1D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_MU/NASDAQ_MU_1H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_MU/NASDAQ_MU_1M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_MU/NASDAQ_MU_1W.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_MU/NASDAQ_MU_1Y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_MU/NASDAQ_MU_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_MU/NASDAQ_MU_3M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_MU/NASDAQ_MU_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_MU/NASDAQ_MU_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_NDX/NASDAQ_NDX_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_NDX/NASDAQ_NDX_1D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_NDX/NASDAQ_NDX_1H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_NDX/NASDAQ_NDX_1M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_NDX/NASDAQ_NDX_1W.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_NDX/NASDAQ_NDX_1Y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_NDX/NASDAQ_NDX_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_NDX/NASDAQ_NDX_3M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_NDX/NASDAQ_NDX_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_NDX/NASDAQ_NDX_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_NVDA/NASDAQ_NVDA_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_NVDA/NASDAQ_NVDA_1D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_NVDA/NASDAQ_NVDA_1H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_NVDA/NASDAQ_NVDA_1M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_NVDA/NASDAQ_NVDA_1W.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_NVDA/NASDAQ_NVDA_1Y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_NVDA/NASDAQ_NVDA_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_NVDA/NASDAQ_NVDA_3M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_NVDA/NASDAQ_NVDA_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_NVDA/NASDAQ_NVDA_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_PLTR/NASDAQ_PLTR_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_PLTR/NASDAQ_PLTR_1D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_PLTR/NASDAQ_PLTR_1H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_PLTR/NASDAQ_PLTR_1M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_PLTR/NASDAQ_PLTR_1W.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_PLTR/NASDAQ_PLTR_1Y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_PLTR/NASDAQ_PLTR_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_PLTR/NASDAQ_PLTR_3M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_PLTR/NASDAQ_PLTR_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_PLTR/NASDAQ_PLTR_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_TSLA/NASDAQ_TSLA_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_TSLA/NASDAQ_TSLA_1D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_TSLA/NASDAQ_TSLA_1H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_TSLA/NASDAQ_TSLA_1M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_TSLA/NASDAQ_TSLA_1W.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_TSLA/NASDAQ_TSLA_1Y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_TSLA/NASDAQ_TSLA_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_TSLA/NASDAQ_TSLA_3M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_TSLA/NASDAQ_TSLA_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NASDAQ_TSLA/NASDAQ_TSLA_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NYMEX_CL1_main/NYMEX_CL1_main_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NYMEX_CL1_main/NYMEX_CL1_main_1D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NYMEX_CL1_main/NYMEX_CL1_main_1H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NYMEX_CL1_main/NYMEX_CL1_main_1M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NYMEX_CL1_main/NYMEX_CL1_main_1W.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NYMEX_CL1_main/NYMEX_CL1_main_1Y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NYMEX_CL1_main/NYMEX_CL1_main_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NYMEX_CL1_main/NYMEX_CL1_main_3M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NYMEX_CL1_main/NYMEX_CL1_main_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NYMEX_CL1_main/NYMEX_CL1_main_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NYSE_LLY/NYSE_LLY_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NYSE_LLY/NYSE_LLY_1D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NYSE_LLY/NYSE_LLY_1H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NYSE_LLY/NYSE_LLY_1M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NYSE_LLY/NYSE_LLY_1W.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NYSE_LLY/NYSE_LLY_1Y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NYSE_LLY/NYSE_LLY_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NYSE_LLY/NYSE_LLY_3M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NYSE_LLY/NYSE_LLY_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/NYSE_LLY/NYSE_LLY_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/OANDA_XAGUSD/OANDA_XAGUSD_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/OANDA_XAGUSD/OANDA_XAGUSD_1D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/OANDA_XAGUSD/OANDA_XAGUSD_1H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/OANDA_XAGUSD/OANDA_XAGUSD_1M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/OANDA_XAGUSD/OANDA_XAGUSD_1W.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/OANDA_XAGUSD/OANDA_XAGUSD_1Y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/OANDA_XAGUSD/OANDA_XAGUSD_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/OANDA_XAGUSD/OANDA_XAGUSD_3M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/OANDA_XAGUSD/OANDA_XAGUSD_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/OANDA_XAGUSD/OANDA_XAGUSD_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/OANDA_XAUUSD/OANDA_XAUUSD_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/OANDA_XAUUSD/OANDA_XAUUSD_1D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/OANDA_XAUUSD/OANDA_XAUUSD_1H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/OANDA_XAUUSD/OANDA_XAUUSD_1M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/OANDA_XAUUSD/OANDA_XAUUSD_1W.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/OANDA_XAUUSD/OANDA_XAUUSD_1Y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/OANDA_XAUUSD/OANDA_XAUUSD_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/OANDA_XAUUSD/OANDA_XAUUSD_3M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/OANDA_XAUUSD/OANDA_XAUUSD_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/OANDA_XAUUSD/OANDA_XAUUSD_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/SSE_000001/SSE_000001_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/SSE_000001/SSE_000001_1D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/SSE_000001/SSE_000001_1H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/SSE_000001/SSE_000001_1M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/SSE_000001/SSE_000001_1W.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/SSE_000001/SSE_000001_1Y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/SSE_000001/SSE_000001_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/SSE_000001/SSE_000001_3M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/SSE_000001/SSE_000001_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/SSE_000001/SSE_000001_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/SZSE_399006/SZSE_399006_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/SZSE_399006/SZSE_399006_1D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/SZSE_399006/SZSE_399006_1H.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/SZSE_399006/SZSE_399006_1M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/SZSE_399006/SZSE_399006_1W.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/SZSE_399006/SZSE_399006_1Y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/SZSE_399006/SZSE_399006_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/SZSE_399006/SZSE_399006_3M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/SZSE_399006/SZSE_399006_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/SZSE_399006/SZSE_399006_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/combined_images_2026-04-25/CBOT_MINI_YM1_main_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/combined_images_2026-04-25/CME_MINI_ES1_main_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/combined_images_2026-04-25/CME_MINI_NQ1_main_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/combined_images_2026-04-25/COMEX_HG1_main_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/combined_images_2026-04-25/GOOG_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/combined_images_2026-04-25/NASDAQ_AAPL_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/combined_images_2026-04-25/NASDAQ_AMD_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/combined_images_2026-04-25/NASDAQ_AMZN_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/combined_images_2026-04-25/NASDAQ_META_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/combined_images_2026-04-25/NASDAQ_MRVL_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/combined_images_2026-04-25/NASDAQ_MSFT_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/combined_images_2026-04-25/NASDAQ_MU_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/combined_images_2026-04-25/NASDAQ_NDX_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/combined_images_2026-04-25/NASDAQ_NVDA_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/combined_images_2026-04-25/NASDAQ_PLTR_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/combined_images_2026-04-25/NASDAQ_TSLA_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/combined_images_2026-04-25/NYMEX_CL1_main_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/combined_images_2026-04-25/NYSE_LLY_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/combined_images_2026-04-25/OANDA_XAGUSD_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/combined_images_2026-04-25/OANDA_XAUUSD_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/combined_images_2026-04-25/SSE_000001_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/combined_images_2026-04-25/SZSE_399006_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/combined_index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/latest_combined_images_2026-04-25/CBOT_MINI_YM1_main_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/latest_combined_images_2026-04-25/CME_MINI_ES1_main_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/latest_combined_images_2026-04-25/CME_MINI_NQ1_main_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/latest_combined_images_2026-04-25/COMEX_HG1_main_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/latest_combined_images_2026-04-25/GOOG_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/latest_combined_images_2026-04-25/NASDAQ_AAPL_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/latest_combined_images_2026-04-25/NASDAQ_AMD_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/latest_combined_images_2026-04-25/NASDAQ_AMZN_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/latest_combined_images_2026-04-25/NASDAQ_META_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/latest_combined_images_2026-04-25/NASDAQ_MRVL_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/latest_combined_images_2026-04-25/NASDAQ_MSFT_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/latest_combined_images_2026-04-25/NASDAQ_MU_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/latest_combined_images_2026-04-25/NASDAQ_NDX_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/latest_combined_images_2026-04-25/NASDAQ_NVDA_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/latest_combined_images_2026-04-25/NASDAQ_PLTR_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/latest_combined_images_2026-04-25/NASDAQ_TSLA_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/latest_combined_images_2026-04-25/NYMEX_CL1_main_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/latest_combined_images_2026-04-25/NYSE_LLY_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/latest_combined_images_2026-04-25/OANDA_XAGUSD_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/latest_combined_images_2026-04-25/OANDA_XAUUSD_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/latest_combined_images_2026-04-25/SSE_000001_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/latest_combined_images_2026-04-25/SZSE_399006_combined.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/screening_report_2026-04-25.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/screening_sheets_2026-04-25/screening_sheet_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/screening_sheets_2026-04-25/screening_sheet_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/screening_sheets_2026-04-25/screening_sheet_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/screening_sheets_2026-04-25/screening_sheet_04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/screening_sheets_2026-04-25/screening_sheet_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/charts/2026-04-25/screening_sheets_2026-04-25/screening_sheet_06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_analyzer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_analyzer20260425_增加等待时间前_可能有白图的版本.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_analyzer20260425_增加自动检测_避免白图_但没有zoom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_analyzer_20261729_增加pdf功能前.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_analyzer_old.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/BrowserMetrics/BrowserMetrics-69ECA70A-4748.pma" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Crashpad/settings.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Affiliation Database" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Affiliation Database-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/AutofillStrikeDatabase/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/AutofillStrikeDatabase/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/AutofillStrikeDatabase/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/BrowsingTopicsSiteData" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/BrowsingTopicsSiteData-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/BrowsingTopicsState" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/BudgetDatabase/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/BudgetDatabase/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/BudgetDatabase/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/data_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/data_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/data_2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/data_3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000002" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000003" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000004" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000005" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000006" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000007" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000008" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000009" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00000a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00000b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00000c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00000d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00000e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00000f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000010" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000011" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000012" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000013" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000015" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000016" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000017" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000018" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000019" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00001a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00001b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00001c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00001d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00001e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00001f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000020" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000021" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000022" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000023" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000024" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000025" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000026" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000027" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000028" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000029" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00002a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00002b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00002c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00002d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00002e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00002f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000030" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000031" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000032" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000033" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000034" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000035" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000036" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000037" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000038" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00003a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00003b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00003c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00003d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00003e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00003f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000040" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000041" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000042" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000043" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000044" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000045" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000046" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000047" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000048" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000049" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00004a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00004b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00004c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00004d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00004e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00004f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000050" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000051" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000068" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00006a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00006c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00006e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000070" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000072" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000074" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000076" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000078" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00007a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00007c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00007e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000080" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000082" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000084" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000086" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000088" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00008a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00008c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00008e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000090" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000092" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000094" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000096" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000098" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00009a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00009c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00009e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000a0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000a2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000a4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000a6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000a8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000aa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000ac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000ae" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000b0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000b2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000b4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000b6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000b8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000ba" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000bc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000be" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000c0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000c2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000c4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000c6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000c8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000ca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000ce" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000d0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000d2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000d4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000d6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000d8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000da" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000dc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000de" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000e2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000e4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000e6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000e8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000ea" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000ee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000f0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000f2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000f4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000f6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000f8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000fa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000fc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0000fe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000100" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000102" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000104" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000106" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000108" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00010a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00010c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00010e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000110" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000112" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000114" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000116" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00011c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00011e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000120" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000122" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000124" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000126" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000128" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00012a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00012c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00012e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000130" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000131" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000132" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000133" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000134" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000135" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000136" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000137" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000138" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000139" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00013a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00013b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00013c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00013d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00013e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00013f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000140" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000141" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000142" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000143" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000144" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000146" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000148" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00014a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00014c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00014e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000150" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000152" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000154" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000156" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000158" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00015a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00015c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00015e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000160" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000162" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000164" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000166" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000168" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00016a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00016c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00016e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000170" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000172" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000174" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000176" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000178" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00017a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00017c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00017e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000180" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000182" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000184" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000186" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000188" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00018a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00018c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00018e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000190" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000192" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000194" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000196" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000198" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00019a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00019c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00019e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0001a0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0001a2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0001a4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0001a6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0001f2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_0001f5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000207" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00020b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00020d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00020f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000211" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000213" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000215" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000217" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000219" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00021b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00021d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00021f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000221" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000223" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000225" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000227" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000229" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00022b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00022d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00022f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000231" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000233" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000235" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000237" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000239" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00023b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00023e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000240" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000242" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000244" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000246" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000248" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00024a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00024c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00024e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000250" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000252" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000254" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000256" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000258" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00025a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00025d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00025f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000261" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000263" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000265" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000267" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000269" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00026b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00026d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00026f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000270" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000271" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000272" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000274" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000276" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000278" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00027a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00027c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00027e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000280" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000282" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000284" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000286" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000287" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000289" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00028a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00028b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00028c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00028e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000290" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000292" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000294" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000296" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_000298" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00029a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00029c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/f_00029d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Cache/Cache_Data/index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/ClientCertificates/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/ClientCertificates/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/ClientCertificates/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/00efb5f4eecc0356_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/013d265c1d41fe4f_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/0268f12ae66c24a1_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/03d0de5b8d8ace01_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/050332a5e631f1b3_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/050d75c580e2d2ba_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/06398e29bd2c9ace_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/06eb8f50c9326d57_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/06f7432b280653c9_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/07920166e3df73b2_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/07a6e339a70422a3_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/08fa0fda84df3883_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/0947de49e943f3fd_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/098fe761cc9ef5a3_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/09f221371d364c92_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/0a74f21407c12ca5_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/0b8b4842491ada0b_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/0bbac43dc1ccbbaf_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/0cdb07837ace6b98_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/0d9740c16b6bf263_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/0e0720a2ac27e3fe_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/0e8c0e9235fe679b_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/0ee2022925a4ac74_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/0f6cd6896a095811_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/1073d6429f257c63_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/118c191c1ad7c1e2_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/124357b8d2b0fecb_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/1398efbb5d380aed_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/13f78ee5694dde35_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/14029323217a845f_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/14174dc89a092d9b_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/14821c795bcfa5ba_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/149339b1994433b1_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/14f224b69c2df224_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/1515ab590c791635_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/154e6584a2427fa2_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/1580056646d42602_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/15d7b0026ab6774c_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/16e98b726e9e1719_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/1827aba993f8d6f7_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/18970f5240fd9a69_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/18df6f70cb1c6646_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/1958125802e7986c_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/1963c5a50e32c63f_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/19c07fdaa71b1f47_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/1a35d27af0f93a5d_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/1b8428b45b6967e4_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/1bc4aa47a0f8b809_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/1bedd2dce4ab0ec9_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/1c16decba7e42315_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/1ca28dbd388a3741_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/1d1c5459b0b29d39_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/1d7f07be1ce14a04_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/1dd13ab9056ff9f2_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/1e534f6abc71d787_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/1e67fc4759a8f22b_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/1edcd58909f84781_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/1f0b4421ea8f325a_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/1f2090757395ec43_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/1f86cb113ce59f87_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/20150811ce65108c_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/202f72833ad2810d_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/21343e9aa0dc31e6_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/21daabfc58edb5f0_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/21f66e1e94e05d8a_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/2253f453b792f7d6_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/2329f6a6712f1c7e_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/2484a3008f26a640_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/2531deea7474a963_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/253b1eb44435763d_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/2551fedfedcc0fcf_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/261d4b4757fce643_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/2686ddc74f88c0f7_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/269064ac2a6a6d72_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/26bde2bc688bcaa1_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/26d1512e3b0fc3a7_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/26da6215077d916c_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/271f02ffe9404a93_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/273e1fb54edbc89f_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/27b669cf7dda8b86_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/28003cdccdc1eef1_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/28a705133c3adfa3_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/28ded8a7e5f36153_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/2940414a96710cd9_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/29e8f7a21f8bfaa5_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/2a4f6e2e784a5bb7_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/2b897cef35cc2ca9_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/2bbd3011a06e56b0_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/2d43eb26eb4ba782_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/2d5a1514ce2de7e9_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/2f10009c4550cba4_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/2f1c6a62eb4ee71a_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/2fc6db04ac5d16d2_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/304699bfb5a9a9e6_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/30bf09ad4ea572b9_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/30cadca131c2e214_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/30d28d5d52a31638_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/313cf0f3d4df6749_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/32e6eee165894c6b_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/33c263f1cefa2b17_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/342b82b2df8930b9_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/350a274e24305855_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/35427171f3d33c33_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/3571eae7a9d1fbff_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/358c01b3518be1e3_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/35abee6194d5d1e1_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/35b2ec37900d4feb_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/36e8192b8e577101_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/37e2ecf70cc88d12_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/3881dda686e757cd_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/38bd9f3ed842d779_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/390b995668d9abff_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/3948f2a11d0681c6_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/39be3864e16d0a69_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/3a7ee260fcc1f86f_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/3b9d067f3c3ef2cb_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/3bd73515ab2478fb_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/3c190ba4583243b0_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/3c2a5b83ada6d7f0_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/3c53a77f858e82d3_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/3c90b52e37a19568_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/3d824ab7a7a67467_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/3e1938d36d67a999_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/3eba47a59b275de9_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/3f01af86b08553b7_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/3f95f2380c7c5741_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/4017698a68602515_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/403ea805285bff25_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/40418ef663cfe81c_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/40ebeb3508746a01_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/41c9a7d557b13fdb_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/42469faaa07394ea_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/42d3ac2bbe9146c3_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/43d24e8f493a3277_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/43f3801c1ad41c9e_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/457b615f99f475f6_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/45a02a6338449520_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/45ea4b3df01633a9_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/46024992710419d2_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/46d6090dd84014e9_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/471ea7346eea4636_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/473f3ca3b8bdb34e_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/474ceb38e2f32cd4_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/4840e408365f222c_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/484d9a40415b1414_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/49901e193f00ba8c_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/49ed888859b10673_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/4a0c8016df187fa8_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/4a6f489f62a11659_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/4b7196806a4badfa_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/4bbf38af7e14e30c_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/4be81e8cf95baa53_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/4ca41a12036bf220_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/4d1826488b233619_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/4d3905d846570d02_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/4d6a31ab67781cbb_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/4da9300b04e49ff3_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/4e4ed8438fe71c1f_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/4e71ca7125bd8602_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/4e82d4083176482b_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/4ec25f7cbc44b616_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/4edc4e04ac66ff2a_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/4fc2c4ab0473589f_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/4ffbb8ba05021914_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/517c082368dcd492_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/51df6afba1c37f02_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/5203d170e980230a_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/524b6ca0d9ff4776_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/52529af167a64ffb_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/526e137f1bc1537c_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/52f9698f2a9fe7f5_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/539f5fb2a4dddb27_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/5525cd4d2bfe1ce4_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/56635f25befde144_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/57bbbb8fdddad1d6_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/57bed557ed158be9_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/587263a3699ed016_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/5887463de501e2d4_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/590b7095535629ab_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/59918257cb669e6b_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/59f7255f54eccfde_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/59fcd96a2bb2d415_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/5a7f20a6b3d1c7bc_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/5a948b9dffce1665_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/5b317cf56ff4703a_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/5c97d08b150d9f6e_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/5ca106c0f060218d_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/5ce414332cea377b_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/5d564bff3af2ca3c_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/5dd978b30bd5a91d_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/5e699c63cf1d9b18_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/5f365e03a83a4d89_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/5f60aa39d8604359_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/600dcbb7ee4114f5_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/603b04549f67e5b1_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/60c8d7cf151de0e1_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/60f0cb7ecd981d0e_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/61d79e6eb8fe32a9_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/638e6961af458c7e_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/63d554bd627096b4_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/64327908228498a6_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/65056eed38eb2e66_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/651f5ab7e071b05b_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/659d94fb6aec1f99_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/66c235784a6f9619_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/66cdd38ca18fa4d2_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/67aafc4c4ace4fe3_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/6831b64c77b92a26_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/68f5ca7cdbbe4dc3_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/69c986df8e0c5ca2_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/6ab26f77ddbd3aea_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/6ac8af0eedc8c3d6_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/6b639e41deb767e9_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/6bd622820b53368b_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/6bea1508f78b8df2_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/6cfeb8a0613e0698_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/6d4b2ad0ba40cf38_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/6d79259898e58910_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/6de2531a1ee246b4_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/6eebbf776a9cedad_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/6ef5bc321ae2d81e_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/6ef5f2296c1b7355_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/6f0b1d96c1356be2_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/6f97c220a3e87b4e_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/6fbed64d5b8d3390_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/7126198d6843c8d0_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/71b638ed152ea8f1_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/71d922191cb0f75d_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/72265101e075a403_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/725aa9529df7882c_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/72ac759863cfb3f0_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/730b2e75e9cde772_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/733f9d4b68b7dbe1_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/73c3271d54ee4c84_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/73cf82d89ff6e3be_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/75624c55c3849b7e_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/75678244ce4c1a96_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/75b2f217e42b0e1e_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/7633fd919f10c69b_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/77b9516d9ebdbe32_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/77dd5246d1d3b240_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/77f85918b51f9813_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/77fba6740a7d27fa_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/7873a896f5f39e06_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/78de496f2202b8d9_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/78f41ed70ff38d3a_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/78f450d0f5376ab8_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/791e5b3a0c218ff0_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/79b1222a1bbfd260_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/79d696d1dacedea7_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/7a3d11bc3fa6bc10_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/7b4353fd84461c39_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/7b4b9d643581279f_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/7bdde4d463a4e5d4_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/7be3679222b52a28_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/7d80ab6070349e7f_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/7db7083fe3a1796a_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/7dcdb367c9fdc288_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/7de7e00b919d0988_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/7e654fde87dbe9da_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/7eb52ce58a220e4c_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/7f526ea5bf67ef04_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/7f6e7c879a5b2b21_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/801e017789d1f39d_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/80a2a6752007955c_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/80ae8c71e989f49f_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/80b547d23f46c24d_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/81ebf9e1e5e3b0fb_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/82a239b74b7b7fe2_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/82ea8812d0cef5cb_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/83f0bb8f8ca8ffda_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/83fa962f8e547c6d_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/8438642f71b47cb1_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/84519574d8e12588_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/85190f17694b1a53_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/858e29049fbbcbea_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/8598be4c7355405a_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/85dec976995c0f9d_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/85fa68818e265fbe_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/86f4d81ae6fad1c3_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/87057a136af8841d_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/8720db0b28f29211_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/87376b8e71b85049_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/88f14d1b6429eb92_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/8928b9ac874f7a12_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/893de93a8c471fcf_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/897b1e0f03f45d7d_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/89b0c8741eddbdac_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/89b94258fd4d51cc_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/8b5f2c69e543b66e_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/8b68176e4d0de731_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/8c18aab374f998cf_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/8c6ea68768f34f8d_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/8d1acf02383d11fa_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/8e6c1ac1e5d84ed3_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/8eb17e3cb00c776a_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/8f1ce3922c1fcd0b_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/8f4f00f2ba5a3994_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/8f7a755fd7c725e9_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/8fb6897eabaecc7d_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/913c3a94e43e7bfc_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/9143ff3c7b34a37c_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/922849516b210aef_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/92506bbca84b065d_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/93074f19d2dfe8f1_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/95bba93ffb364b6d_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/96d10afa3af98b98_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/97b42bac2c5e1ed8_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/981cc784dc59a55a_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/983bb49f24cc8a21_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/987fb25b2f34a9fb_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/98aaa8e7bf9b44dd_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/98bd75e833babb82_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/98beb37f10a927ac_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/98cb3ffe21257b87_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/98e3fb060fcf2597_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/993465a7b031b178_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/998c638e1d5db82d_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/99bd95389e0e3bbb_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/99c164f2dac72835_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/99cbda8e467aeac0_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/9a4b0b0e5a12412d_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/9a670f7756704830_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/9a88dc0e8b22f9df_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/9b19e415841efaa9_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/9c17f81606457965_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/9c55625980bc0c08_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/9c71a66c85dabfb7_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/9c914d681125e53f_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/9d90e080a03e0a16_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/9d91b69d1be3a719_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/9dd1c0da298fbbf4_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/9dd4d971b6528140_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/9dfe5c32a8ad4538_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/9e3409507c5d2f85_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/9e7304642a76eb4a_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/9ed57056879759a8_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/9fdee4d00ecb4c75_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/a021f905fe6322d6_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/a0773bf21728662e_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/a09f77309c92171d_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/a1054de64ee28e40_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/a26282972c8a5d37_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/a2908074fd9a56cc_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/a2c3bdabd1d93ac2_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/a56bb02d63a5b63d_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/a7048f835bbc9713_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/a7115b7ba23accd8_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/a7921ee836dccd71_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/a8003947aca182b5_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/a8d53488cb668fe3_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/a94ac936e81395c6_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/a9ec4e221b407e30_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/aa5062656a7e014d_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/abb7f184d175ad72_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/abece4642d691227_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/ac6ba993b1c52e6b_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/ad11df9c96b05e09_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/adf893005a3676c6_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/ae20ffd787440ccd_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/ae36f7044e9e9a7c_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/ae93bebd5ba19036_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/aed97fe6e90dc9d3_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/af546bdde980aa85_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/af6916d80e599989_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/b031b619e862188d_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/b079f91fbf8fbca4_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/b080bb1c72b6e3dd_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/b1323b7a33db616c_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/b17e09992d9e85f9_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/b1b4d83a3dc79bfb_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/b20e01da78f1e7d5_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/b23898bd8b5782f2_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/b2d4edd1d974dfeb_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/b4ed3f51aed36ddd_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/b50bb626d47d87f9_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/b527bdeb9731ea9e_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/b52b6ea3a2aa0b1c_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/b53a22b2c23830b5_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/b55e082efabfccef_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/b5942c87d4ad11ac_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/b60ec0f34d666241_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/b630cb44a4a38e7c_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/b66d0bb87c3cf052_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/b6a00e3eab286cc5_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/b6f2257a159384cc_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/b7261c33a4546ff4_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/b7e5645fbd342ad9_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/b7e834c3fd342ce0_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/b8364ae63a2942ae_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/b85bd8cac27536b4_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/b85fbca8083e8158_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/b89d0439bd0b0269_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/b91cdb1e220cc46d_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/b989adb85e9b50c1_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/ba0095c9e1ef7ad4_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/ba1b51e0cda11760_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/ba6c5c6cf7ce49e9_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/bc75db4f1b975053_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/bd9b811c4a634315_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/bda9162f46820d4e_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/be87df5702e3ccfb_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/bec03fb5df8891b8_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/bf62694bdfd5a0b3_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/c077c6c33d509088_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/c0aee39e4bbee5ab_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/c1f3dbaafbc6d45b_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/c1fd0a5b0089c7a8_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/c3281297ffdfe999_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/c35a85c5a97c42af_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/c37cfdf41626cd91_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/c3c98726bc3e2846_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/c46691c7b4147c07_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/c474dc61efe96b5f_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/c48f295b882a84bb_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/c59d0679e40f4f6f_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/c6d593f488dd34b7_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/c6f28bc4adfcbfd8_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/c7a3f39421cb86ff_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/c7aed516ff3f6d6c_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/c7cbbf4375d6d34f_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/c91105ad50731726_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/c93ab087a1d137ca_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/c98b72c84758428c_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/c99d1eff92792af6_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/ca2d7574c018f568_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/ca3613e4981e2747_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/cad35a64cf67c660_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/cc2e1034359db7bc_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/ccd6d6ebdaf82a79_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/cd21b2893ced15cd_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/ce9c1f444ea98236_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/cf4f6586fdd94b1f_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/cfab739092e82395_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/cfc0f0517fa14900_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/d04c92cc7f0be94a_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/d10948db2f54ec97_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/d2149c8e8cb682d9_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/d23c5c13dbd265d6_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/d2559c27b46e63a9_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/d267577e55b66c11_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/d2bec544f0d1411a_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/d2c67fa97c7cf230_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/d403a6a107788746_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/d4d359d52f282aa9_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/d519508d06de8bc7_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/d55bf1a0f6cbed4c_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/d580a3ad9ff7a1a8_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/d6376eef59b45722_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/d68cbb58eb392f17_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/d7086c3e66c57361_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/d71aff975d4d4384_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/d85ed7e8e6c2e011_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/d86f8a63077a0aae_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/d87db07743bc0d7a_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/d8dc02f2e0447dd6_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/d957cf202a562491_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/d9ce89421f2b945a_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/db3781d9e2ca2e1f_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/db3dc0684d845896_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/dc23e11b279b5f5d_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/dc26f4371eb6a7f1_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/dd54067abd7fbd3c_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/df015066a04ee267_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/df6be6b5df498e1e_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/e047e8b1151b4534_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/e053c0acf4b2596f_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/e13890caf3e49db8_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/e15bac94d0a94e51_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/e1775d81aeb83d0c_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/e2bf828e491a9f7f_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/e3e573d1021ed5bb_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/e4f3a0f9ec2c3338_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/e5de8741d3bd965a_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/e6e6bd62cdc2f709_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/e86419ded0f1604e_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/e8c52255c27c0338_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/e903f0466bea9fe0_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/e90f2ff3fb622982_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/e9736119ffdac78a_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/e9c877ae54389343_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/ea0c55159870c4d6_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/ea57f462525bd06d_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/ea8301eea8e25ba1_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/ea9e1cba17f9095f_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/ec07ed2677b78a2b_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/ec951a59f3c7d5ba_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/ecb4dab92183f091_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/ecc0e1c436a49e53_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/ee35d585feb306a4_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/efa25ffb99076133_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/efb2dec32b0b57bd_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/efb8502662df1143_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/efcad2d2f3b0a3c3_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/f04ee1c44f6587f7_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/f0fbc1ecab76a42c_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/f2c373ff5bad4f9f_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/f3a58334e55b0f17_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/f3ddb0c5510da795_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/f41272cfcfc6ba1c_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/f5d7b30df0d7c273_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/f76bbcb2928b521b_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/f80dd930ea64add3_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/f8395efc2a5860d1_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/f87677e9512469ed_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/f96cc61a958534da_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/fada5c0acf17d1bd_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/fb24b8555fb2a9e4_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/fbd7625499e2e814_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/fc8a8a59dc669c87_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/fd3e30f4f7938d8c_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/fd7376d2ee753146_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/fd9b607e9da3cf9a_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/fdd3ee848eec7159_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/fe18ec4b4e9974fc_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/fe72463aedd0ac56_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/fe79991dd43308ff_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/fe99a6db43750507_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/fed3f2439fc159da_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/fef3e5cf415e6f2d_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/ff1f3e32267e8fc2_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/ff3583ff8422bd58_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/js/index-dir/the-real-index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/wasm/index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Code Cache/wasm/index-dir/the-real-index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/DIPS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/DIPS-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/DawnGraphiteCache/data_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/DawnGraphiteCache/data_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/DawnGraphiteCache/data_2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/DawnGraphiteCache/data_3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/DawnGraphiteCache/index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/DawnWebGPUCache/data_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/DawnWebGPUCache/data_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/DawnWebGPUCache/data_2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/DawnWebGPUCache/data_3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/DawnWebGPUCache/index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Download Service/EntryDB/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Download Service/EntryDB/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Download Service/EntryDB/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Extension Rules/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Extension Rules/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Extension Rules/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Extension Rules/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Extension Rules/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Extension Scripts/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Extension Scripts/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Extension Scripts/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Extension Scripts/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Extension Scripts/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Extension State/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Extension State/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Extension State/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Extension State/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Extension State/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Extension State/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Favicons" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Favicons-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Feature Engagement Tracker/AvailabilityDB/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Feature Engagement Tracker/AvailabilityDB/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Feature Engagement Tracker/AvailabilityDB/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Feature Engagement Tracker/EventDB/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Feature Engagement Tracker/EventDB/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Feature Engagement Tracker/EventDB/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/GCM Store/Encryption/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/GCM Store/Encryption/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/GCM Store/Encryption/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/GCM Store/Encryption/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/GCM Store/Encryption/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/GCM Store/Encryption/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/GPUCache/data_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/GPUCache/data_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/GPUCache/data_2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/GPUCache/data_3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/GPUCache/index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/History" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/History-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/IndexedDB/https_www.tradingview.com_0.indexeddb.leveldb/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/IndexedDB/https_www.tradingview.com_0.indexeddb.leveldb/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/IndexedDB/https_www.tradingview.com_0.indexeddb.leveldb/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/IndexedDB/https_www.tradingview.com_0.indexeddb.leveldb/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/IndexedDB/https_www.tradingview.com_0.indexeddb.leveldb/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/IndexedDB/https_www.tradingview.com_0.indexeddb.leveldb/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Local Storage/leveldb/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Local Storage/leveldb/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Local Storage/leveldb/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Local Storage/leveldb/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Local Storage/leveldb/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Local Storage/leveldb/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Login Data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Login Data For Account" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Login Data For Account-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Login Data-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Network Action Predictor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Network Action Predictor-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Network/Cookies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Network/Cookies-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Network/Network Persistent State" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Network/NetworkDataMigrated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Network/Reporting and NEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Network/Reporting and NEL-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Network/SCT Auditing Pending Reports" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Network/TransportSecurity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Network/Trust Tokens" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Network/Trust Tokens-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/PersistentOriginTrials/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/PersistentOriginTrials/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/PersistentOriginTrials/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Preferences" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/PreferredApps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Safe Browsing Network/NetworkDataMigrated" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Safe Browsing Network/Safe Browsing Cookies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Safe Browsing Network/Safe Browsing Cookies-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Secure Preferences" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Segmentation Platform/SegmentInfoDB/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Segmentation Platform/SegmentInfoDB/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Segmentation Platform/SegmentInfoDB/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Segmentation Platform/SignalDB/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Segmentation Platform/SignalDB/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Segmentation Platform/SignalDB/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Segmentation Platform/SignalStorageConfigDB/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Segmentation Platform/SignalStorageConfigDB/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Segmentation Platform/SignalStorageConfigDB/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Service Worker/CacheStorage/b1f79fe4b7ced23eb7adcde17904fba4e858ce4b/2b797eb0-873f-45b0-9cf2-676b4bbba959/66fa8ca47b0fd981_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Service Worker/CacheStorage/b1f79fe4b7ced23eb7adcde17904fba4e858ce4b/2b797eb0-873f-45b0-9cf2-676b4bbba959/9e62b610a3d45c61_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Service Worker/CacheStorage/b1f79fe4b7ced23eb7adcde17904fba4e858ce4b/2b797eb0-873f-45b0-9cf2-676b4bbba959/index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Service Worker/CacheStorage/b1f79fe4b7ced23eb7adcde17904fba4e858ce4b/2b797eb0-873f-45b0-9cf2-676b4bbba959/index-dir/the-real-index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Service Worker/CacheStorage/b1f79fe4b7ced23eb7adcde17904fba4e858ce4b/index.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Session Storage/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Session Storage/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Session Storage/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Session Storage/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Session Storage/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Session Storage/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Sessions/Session_13421585063480630" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Sessions/Session_13421590540848942" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Sessions/Tabs_13421585063633284" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Sessions/Tabs_13421590540976861" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Shared Dictionary/cache/index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Shared Dictionary/cache/index-dir/the-real-index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Shared Dictionary/db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Shared Dictionary/db-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/SharedStorage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Shortcuts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Shortcuts-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Site Characteristics Database/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Site Characteristics Database/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Site Characteristics Database/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Site Characteristics Database/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Site Characteristics Database/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Site Characteristics Database/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Sync Data/LevelDB/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Sync Data/LevelDB/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Sync Data/LevelDB/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Sync Data/LevelDB/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Sync Data/LevelDB/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Sync Data/LevelDB/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Top Sites" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Top Sites-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Visited Links" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Web Data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/Web Data-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/WebStorage/QuotaManager" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/WebStorage/QuotaManager-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/chrome_cart_db/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/chrome_cart_db/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/chrome_cart_db/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/commerce_subscription_db/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/commerce_subscription_db/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/commerce_subscription_db/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/coupon_db/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/coupon_db/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/coupon_db/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/discounts_db/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/discounts_db/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/discounts_db/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/heavy_ad_intervention_opt_out.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/heavy_ad_intervention_opt_out.db-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/optimization_guide_hint_cache_store/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/optimization_guide_hint_cache_store/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/optimization_guide_hint_cache_store/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/parcel_tracking_db/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/parcel_tracking_db/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/parcel_tracking_db/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/shared_proto_db/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/shared_proto_db/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/shared_proto_db/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/shared_proto_db/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/shared_proto_db/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/shared_proto_db/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/shared_proto_db/metadata/000003.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/shared_proto_db/metadata/CURRENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/shared_proto_db/metadata/LOCK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/shared_proto_db/metadata/LOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/shared_proto_db/metadata/LOG.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/shared_proto_db/metadata/MANIFEST-000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Default/trusted_vault.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/GrShaderCache/data_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/GrShaderCache/data_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/GrShaderCache/data_2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/GrShaderCache/data_3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/GrShaderCache/f_000001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/GrShaderCache/f_000002" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/GrShaderCache/f_000003" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/GrShaderCache/f_000004" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/GrShaderCache/f_000005" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/GrShaderCache/f_000006" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/GrShaderCache/f_000007" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/GrShaderCache/f_000008" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/GrShaderCache/f_000009" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/GrShaderCache/f_00000a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/GrShaderCache/f_00000b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/GrShaderCache/f_00000c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/GrShaderCache/index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/GraphiteDawnCache/data_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/GraphiteDawnCache/data_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/GraphiteDawnCache/data_2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/GraphiteDawnCache/data_3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/GraphiteDawnCache/index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Last Browser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Last Version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Local State" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/ShaderCache/data_0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/ShaderCache/data_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/ShaderCache/data_2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/ShaderCache/data_3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/ShaderCache/index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/Variations" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/first_party_sets.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/first_party_sets.db-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/segmentation_platform/ukm_db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chart_download/tv_profile/segmentation_platform/ukm_db-journal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_download/akshare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_download/btc_data_download_no_vpn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_download/btc_data_download_with_vpn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_download/daily_stock_watch_latest20260226.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_download/ft_data_download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_download/ft_index_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_download/tv_analyzer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_download/wind_download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ew_phase02_output.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/futu_data/K_5M/US_QQQ_K_5M_2010-01-01_2027-04-21.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/futu_data/K_5M/US_QQQ_K_5M_2026-04-22_2026-04-24.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/futu_data/K_60M/US_QQQ_K_60M_2010-01-01_2027-04-21.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prompt_multi_png.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prompt_single_stock.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tech_analysis/elliott wave identification system.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tech_analysis/elliott wave identification system_initial_error_version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tech_analysis/elliott_wave_0_2.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3CptbuoQRWeMS04WnGsWPk0mLwp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "V:/pythonproject20240816/data_download"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="V:\pythonproject20240816\data_download" />
+      <recent name="V:\pythonproject20240816\data_download\tech_analysis" />
+      <recent name="V:\pythonproject20240816\data_download\chart_download" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="V:\pythonproject20240816\data_download" />
+      <recent name="V:\pythonproject20240816\data_download\chart_download" />
+      <recent name="V:\pythonproject20240816\data_download\charts" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4645f81-ebbb-453d-9101-6fc6db1d86b0" name="Changes" comment="" />
+      <created>1777094413456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1777094413456</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tech_analysis/elliott wave identification system.py</url>
+          <line>165</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

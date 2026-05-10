@@ -901,13 +901,14 @@ def main():
 if __name__ == "__main__":
     main()
     # 只针对部分标的截图
-    # python chart_download/tv_analyzer.py --mode screenshot --symbols GOOG#CME_MINI:YM1!
+    # python chart_download/tv_analyzer.py --mode screenshot --symbols GOOG CME_MINI:YM1!
+    #  python chart_download/tv_analyzer.py --mode screenshot --symbols  CME_MINI:NQ1! CME_MINI:ES1! HKEX:HTI1! HKEX:HSI1! HKEx:3690 SSE:000001 SZSE:399006 SZSE:399005 CBOT_MINI:YM1!
 
     # 仅截图 + 合图 + 汇总 + PDF + screening sheet
-    # python data_download/chart_download/tv_analyzer.py --mode screenshot
+    # python chart_download/tv_analyzer.py --mode screenshot
 
     # 重新合图（不重新截图）并重建 PDF / screening sheet
-    # python data_download/chart_download/tv_analyzer.py --mode merge --date 2026-04-25
+    # python chart_download/tv_analyzer.py --mode merge --date 2026-04-27
 
     # 仅生成 PDF
     # python chart_download/tv_analyzer.py --mode pdf --date 2026-04-25

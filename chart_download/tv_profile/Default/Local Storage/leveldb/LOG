@@ -1,3 +1,6 @@
-2026/04/25-19:35:38.385 3f90 Reusing MANIFEST V:\pythonproject20240816\data_download\chart_download\tv_profile\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/25-19:35:38.390 3f90 Recovering log #3
-2026/04/25-19:35:38.392 3f90 Reusing old log V:\pythonproject20240816\data_download\chart_download\tv_profile\Default\Local Storage\leveldb/000003.log 
+2026/05/01-20:45:44.346 4790 Reusing MANIFEST V:\pythonproject20240816\data_download\chart_download\tv_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/01-20:45:44.351 4790 Recovering log #4
+2026/05/01-20:45:44.352 4790 Reusing old log V:\pythonproject20240816\data_download\chart_download\tv_profile\Default\Local Storage\leveldb/000004.log 
+2026/05/01-21:01:47.034 4790 Level-0 table #7: started
+2026/05/01-21:01:47.039 4790 Level-0 table #7: 7011 bytes OK
+2026/05/01-21:01:47.043 4790 Delete type=0 #4

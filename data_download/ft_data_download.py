@@ -8,22 +8,25 @@ from futu import *
 # -------------------------- 【用户配置区】所有参数都在这里修改 --------------------------
 # 1. 你要下载的股票/期货列表（富途代码格式）
 STOCK_LIST = [
-    #"HK.HSImain",  # 恒指主连
-    #"HK.HTImain",  # 恒指主连
-    #"SH.000001",  # 恒指主连
-    #"US.TCOM",
-    "US.QQQ",
-     #"US.NDX",
+    "HK.HSImain",  # 恒指主连
+     "SH.510500",  # 恒指主连
+     "SH.000001",  # 恒指主连
+     "US.AMD",
+      "US.NVDA",
+     'SZ.002466',
+     "SZ.300014",
+     "SZ.002460",
+     "US.QQQ",
     # "US.NQmain",  # 纳斯达克100主连（需要美股期货权限）  需要额外买
 ]
 
 # 2. 数据时间范围
-START_DATE = "2026-04-22"
-END_DATE = "2026-04-24"
+START_DATE = "2017-04-22"
+END_DATE = "2026-04-29"
 
 # 3. K线类型配置（核心修改点）
 # 可选值：KLType.K_1M, KLType.K_5M, KLType.K_15M, KLType.K_30M, KLType.K_60M, KLType.K_DAY等
-KLINE_TYPE = KLType.K_5M#KLType.K_60M  # 这里改成你要的周期
+KLINE_TYPE = KLType.K_30M#KLType.K_60M  # 这里改成你要的周期
 KLINE_NAME = KLINE_TYPE# 用于打印和文件名的显示名称
 
 # 4. 数据保存路径（自动根据K线类型创建子文件夹）

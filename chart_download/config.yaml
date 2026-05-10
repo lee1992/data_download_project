@@ -103,6 +103,12 @@ symbols:
 - NYMEX:CL1!
 - SSE:000001
 - SZSE:399006
+- HKEX:HTI1!
+- HKEX:HSI1!
+- SSE:000905
+- NASDAQ:SOX
+
+
 tradingview:
   base_url: https://www.tradingview.com/chart/
   chart_area_top_offset: 60
